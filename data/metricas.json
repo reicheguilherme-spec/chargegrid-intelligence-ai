@@ -1,0 +1,57 @@
+{
+  "previsor_solar": {
+    "dias_treino": 120,
+    "dias_teste": 30,
+    "MAE_kW": 0.826,
+    "RMSE_kW": 1.651,
+    "R2": 0.9277,
+    "erro_medio_energia_diaria_pct": 14.6,
+    "pesos_modelo": [
+      22.675,
+      -12.2851,
+      -5.3925
+    ],
+    "nuvem_real_media_dia_demo": 0.35,
+    "nuvem_prevista_dia_demo": 0.354,
+    "erro_energia_dia_demo_pct": 10.95
+  },
+  "baseline": {
+    "energia_gerada_pv_kwh": 139.1,
+    "energia_entregue_aos_veiculos_kwh": 147.8,
+    "solar_direto_kwh": 95.7,
+    "bateria_kwh": 0.0,
+    "rede_kwh": 52.1,
+    "fracao_renovavel_pct": 64.8,
+    "pico_rede_kw": 14.8,
+    "excedente_solar_kwh": 43.4,
+    "receita_faturada_rs": 325.2,
+    "custo_rede_rs": 49.5,
+    "margem_rs": 275.7,
+    "co2_rede_kg": 3.13,
+    "metas_atingidas": "6/6",
+    "soc_final_bateria_pct": null
+  },
+  "proposta": {
+    "energia_gerada_pv_kwh": 139.1,
+    "energia_entregue_aos_veiculos_kwh": 147.8,
+    "solar_direto_kwh": 98.4,
+    "bateria_kwh": 13.3,
+    "rede_kwh": 36.2,
+    "fracao_renovavel_pct": 75.5,
+    "pico_rede_kw": 8.88,
+    "excedente_solar_kwh": 26.0,
+    "receita_faturada_rs": 325.21,
+    "custo_rede_rs": 34.36,
+    "margem_rs": 290.85,
+    "co2_rede_kg": 2.17,
+    "metas_atingidas": "6/6",
+    "soc_final_bateria_pct": 20.0
+  },
+  "comparativo": {
+    "reducao_rede_pct": 30.5,
+    "reducao_pico_rede_pct": 40.0,
+    "economia_rs": 15.14,
+    "co2_evitado_kg": 0.96,
+    "ganho_fracao_renovavel_pontos": 10.7
+  }
+}

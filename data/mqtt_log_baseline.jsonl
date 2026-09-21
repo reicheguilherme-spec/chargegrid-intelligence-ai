@@ -1,0 +1,1291 @@
+{"hora": "00:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "00:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "00:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "00:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "01:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "01:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "01:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "02:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "02:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "02:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "03:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "03:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "03:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "04:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "04:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "04:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "05:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "05:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "05:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "06:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.132}}
+{"hora": "06:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.317}}
+{"hora": "06:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.52}}
+{"hora": "06:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.726}}
+{"hora": "06:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:25", "topico": "estacao/pv/potencia", "payload": {"kw": 1.025}}
+{"hora": "06:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:30", "topico": "estacao/pv/potencia", "payload": {"kw": 1.266}}
+{"hora": "06:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:35", "topico": "estacao/pv/potencia", "payload": {"kw": 1.56}}
+{"hora": "06:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:40", "topico": "estacao/pv/potencia", "payload": {"kw": 1.774}}
+{"hora": "06:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:45", "topico": "estacao/pv/potencia", "payload": {"kw": 2.057}}
+{"hora": "06:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:50", "topico": "estacao/pv/potencia", "payload": {"kw": 2.425}}
+{"hora": "06:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "06:55", "topico": "estacao/pv/potencia", "payload": {"kw": 2.779}}
+{"hora": "06:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "06:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:00", "topico": "estacao/pv/potencia", "payload": {"kw": 3.146}}
+{"hora": "07:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:05", "topico": "estacao/pv/potencia", "payload": {"kw": 3.639}}
+{"hora": "07:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:10", "topico": "estacao/pv/potencia", "payload": {"kw": 3.884}}
+{"hora": "07:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:15", "topico": "estacao/pv/potencia", "payload": {"kw": 4.113}}
+{"hora": "07:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:20", "topico": "estacao/pv/potencia", "payload": {"kw": 4.724}}
+{"hora": "07:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:25", "topico": "estacao/pv/potencia", "payload": {"kw": 5.022}}
+{"hora": "07:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:30", "topico": "estacao/pv/potencia", "payload": {"kw": 5.28}}
+{"hora": "07:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:35", "topico": "estacao/pv/potencia", "payload": {"kw": 5.349}}
+{"hora": "07:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:40", "topico": "estacao/pv/potencia", "payload": {"kw": 5.917}}
+{"hora": "07:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:45", "topico": "estacao/pv/potencia", "payload": {"kw": 6.554}}
+{"hora": "07:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:50", "topico": "estacao/pv/potencia", "payload": {"kw": 6.846}}
+{"hora": "07:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "07:55", "topico": "estacao/pv/potencia", "payload": {"kw": 7.319}}
+{"hora": "07:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "07:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:00", "topico": "estacao/porta/1/evento", "payload": {"evento": "VEICULO_CONECTADO", "veiculo": "Hatch compacto 40 kWh", "cap_kwh": 40, "soc": 0.2, "soc_alvo": 0.9, "saida_h": 16.0}}
+{"hora": "08:00", "topico": "estacao/pv/potencia", "payload": {"kw": 8.224}}
+{"hora": "08:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.2, "kwh": 0.0}}
+{"hora": "08:00", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "START", "kw": 7.4, "fontes": {"solar": 7.4, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "08:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:05", "topico": "estacao/pv/potencia", "payload": {"kw": 8.944}}
+{"hora": "08:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2142, "kwh": 0.617}}
+{"hora": "08:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:10", "topico": "estacao/pv/potencia", "payload": {"kw": 9.917}}
+{"hora": "08:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2284, "kwh": 1.233}}
+{"hora": "08:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:15", "topico": "estacao/pv/potencia", "payload": {"kw": 10.007}}
+{"hora": "08:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2425, "kwh": 1.85}}
+{"hora": "08:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:20", "topico": "estacao/pv/potencia", "payload": {"kw": 10.69}}
+{"hora": "08:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2567, "kwh": 2.467}}
+{"hora": "08:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:25", "topico": "estacao/pv/potencia", "payload": {"kw": 11.502}}
+{"hora": "08:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2709, "kwh": 3.083}}
+{"hora": "08:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:30", "topico": "estacao/pv/potencia", "payload": {"kw": 11.265}}
+{"hora": "08:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2851, "kwh": 3.7}}
+{"hora": "08:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:35", "topico": "estacao/pv/potencia", "payload": {"kw": 11.538}}
+{"hora": "08:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2993, "kwh": 4.317}}
+{"hora": "08:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:40", "topico": "estacao/pv/potencia", "payload": {"kw": 11.922}}
+{"hora": "08:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3135, "kwh": 4.933}}
+{"hora": "08:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:45", "topico": "estacao/pv/potencia", "payload": {"kw": 12.065}}
+{"hora": "08:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3276, "kwh": 5.55}}
+{"hora": "08:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:50", "topico": "estacao/pv/potencia", "payload": {"kw": 13.043}}
+{"hora": "08:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3418, "kwh": 6.167}}
+{"hora": "08:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "08:55", "topico": "estacao/pv/potencia", "payload": {"kw": 13.204}}
+{"hora": "08:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "08:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.356, "kwh": 6.783}}
+{"hora": "08:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:00", "topico": "estacao/pv/potencia", "payload": {"kw": 14.476}}
+{"hora": "09:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3702, "kwh": 7.4}}
+{"hora": "09:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:05", "topico": "estacao/pv/potencia", "payload": {"kw": 14.035}}
+{"hora": "09:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3844, "kwh": 8.017}}
+{"hora": "09:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:10", "topico": "estacao/pv/potencia", "payload": {"kw": 14.924}}
+{"hora": "09:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3986, "kwh": 8.633}}
+{"hora": "09:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:15", "topico": "estacao/pv/potencia", "payload": {"kw": 15.044}}
+{"hora": "09:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4127, "kwh": 9.25}}
+{"hora": "09:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:20", "topico": "estacao/pv/potencia", "payload": {"kw": 15.035}}
+{"hora": "09:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4269, "kwh": 9.867}}
+{"hora": "09:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:25", "topico": "estacao/pv/potencia", "payload": {"kw": 15.753}}
+{"hora": "09:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4411, "kwh": 10.483}}
+{"hora": "09:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:30", "topico": "estacao/porta/2/evento", "payload": {"evento": "VEICULO_CONECTADO", "veiculo": "SUV eletrico 60 kWh", "cap_kwh": 60, "soc": 0.3, "soc_alvo": 0.65, "saida_h": 13.5}}
+{"hora": "09:30", "topico": "estacao/pv/potencia", "payload": {"kw": 17.012}}
+{"hora": "09:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4553, "kwh": 11.1}}
+{"hora": "09:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.3, "kwh": 0.0}}
+{"hora": "09:30", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "START", "kw": 7.4, "fontes": {"solar": 7.4, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "09:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:35", "topico": "estacao/pv/potencia", "payload": {"kw": 16.967}}
+{"hora": "09:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4695, "kwh": 11.717}}
+{"hora": "09:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3095, "kwh": 0.617}}
+{"hora": "09:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:40", "topico": "estacao/pv/potencia", "payload": {"kw": 17.883}}
+{"hora": "09:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4837, "kwh": 12.333}}
+{"hora": "09:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3189, "kwh": 1.233}}
+{"hora": "09:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:45", "topico": "estacao/pv/potencia", "payload": {"kw": 17.714}}
+{"hora": "09:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4978, "kwh": 12.95}}
+{"hora": "09:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3284, "kwh": 1.85}}
+{"hora": "09:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:50", "topico": "estacao/pv/potencia", "payload": {"kw": 17.684}}
+{"hora": "09:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.512, "kwh": 13.567}}
+{"hora": "09:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3378, "kwh": 2.467}}
+{"hora": "09:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "09:55", "topico": "estacao/pv/potencia", "payload": {"kw": 17.299}}
+{"hora": "09:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "09:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5262, "kwh": 14.183}}
+{"hora": "09:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3473, "kwh": 3.083}}
+{"hora": "09:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:00", "topico": "estacao/pv/potencia", "payload": {"kw": 17.269}}
+{"hora": "10:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5404, "kwh": 14.8}}
+{"hora": "10:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3567, "kwh": 3.7}}
+{"hora": "10:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:05", "topico": "estacao/pv/potencia", "payload": {"kw": 18.079}}
+{"hora": "10:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5546, "kwh": 15.417}}
+{"hora": "10:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3662, "kwh": 4.317}}
+{"hora": "10:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:10", "topico": "estacao/pv/potencia", "payload": {"kw": 17.776}}
+{"hora": "10:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5688, "kwh": 16.033}}
+{"hora": "10:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3756, "kwh": 4.933}}
+{"hora": "10:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:15", "topico": "estacao/pv/potencia", "payload": {"kw": 18.6}}
+{"hora": "10:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5829, "kwh": 16.65}}
+{"hora": "10:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3851, "kwh": 5.55}}
+{"hora": "10:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:20", "topico": "estacao/pv/potencia", "payload": {"kw": 17.065}}
+{"hora": "10:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5971, "kwh": 17.267}}
+{"hora": "10:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3946, "kwh": 6.167}}
+{"hora": "10:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:25", "topico": "estacao/pv/potencia", "payload": {"kw": 18.038}}
+{"hora": "10:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6113, "kwh": 17.883}}
+{"hora": "10:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.404, "kwh": 6.783}}
+{"hora": "10:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:30", "topico": "estacao/pv/potencia", "payload": {"kw": 17.264}}
+{"hora": "10:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6255, "kwh": 18.5}}
+{"hora": "10:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4135, "kwh": 7.4}}
+{"hora": "10:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:35", "topico": "estacao/pv/potencia", "payload": {"kw": 16.773}}
+{"hora": "10:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6397, "kwh": 19.117}}
+{"hora": "10:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4229, "kwh": 8.017}}
+{"hora": "10:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:40", "topico": "estacao/pv/potencia", "payload": {"kw": 17.968}}
+{"hora": "10:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6539, "kwh": 19.733}}
+{"hora": "10:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4324, "kwh": 8.633}}
+{"hora": "10:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:45", "topico": "estacao/pv/potencia", "payload": {"kw": 17.894}}
+{"hora": "10:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.668, "kwh": 20.35}}
+{"hora": "10:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4418, "kwh": 9.25}}
+{"hora": "10:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:50", "topico": "estacao/pv/potencia", "payload": {"kw": 18.875}}
+{"hora": "10:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6822, "kwh": 20.967}}
+{"hora": "10:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4513, "kwh": 9.867}}
+{"hora": "10:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "10:55", "topico": "estacao/pv/potencia", "payload": {"kw": 18.576}}
+{"hora": "10:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "10:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6964, "kwh": 21.583}}
+{"hora": "10:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4607, "kwh": 10.483}}
+{"hora": "10:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:00", "topico": "estacao/porta/3/evento", "payload": {"evento": "VEICULO_CONECTADO", "veiculo": "Sedan eletrico 50 kWh", "cap_kwh": 50, "soc": 0.25, "soc_alvo": 0.7, "saida_h": 15.0}}
+{"hora": "11:00", "topico": "estacao/pv/potencia", "payload": {"kw": 20.115}}
+{"hora": "11:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.7106, "kwh": 22.2}}
+{"hora": "11:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4702, "kwh": 11.1}}
+{"hora": "11:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.25, "kwh": 0.0}}
+{"hora": "11:00", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "START", "kw": 7.4, "fontes": {"solar": 5.315, "bateria": 0.0, "rede": 2.085}}}
+{"hora": "11:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:05", "topico": "estacao/pv/potencia", "payload": {"kw": 20.456}}
+{"hora": "11:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.7248, "kwh": 22.817}}
+{"hora": "11:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4797, "kwh": 11.717}}
+{"hora": "11:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2613, "kwh": 0.617}}
+{"hora": "11:05", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 5.656, "bateria": 0.0, "rede": 1.744}}}
+{"hora": "11:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:10", "topico": "estacao/pv/potencia", "payload": {"kw": 19.79}}
+{"hora": "11:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.739, "kwh": 23.433}}
+{"hora": "11:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4891, "kwh": 12.333}}
+{"hora": "11:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2727, "kwh": 1.233}}
+{"hora": "11:10", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.99, "bateria": 0.0, "rede": 2.41}}}
+{"hora": "11:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:15", "topico": "estacao/pv/potencia", "payload": {"kw": 20.918}}
+{"hora": "11:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.7531, "kwh": 24.05}}
+{"hora": "11:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4986, "kwh": 12.95}}
+{"hora": "11:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.284, "kwh": 1.85}}
+{"hora": "11:15", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 6.118, "bateria": 0.0, "rede": 1.282}}}
+{"hora": "11:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:20", "topico": "estacao/pv/potencia", "payload": {"kw": 22.028}}
+{"hora": "11:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.7673, "kwh": 24.667}}
+{"hora": "11:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.508, "kwh": 13.567}}
+{"hora": "11:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2954, "kwh": 2.467}}
+{"hora": "11:20", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 7.228, "bateria": 0.0, "rede": 0.172}}}
+{"hora": "11:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:25", "topico": "estacao/pv/potencia", "payload": {"kw": 20.846}}
+{"hora": "11:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.7815, "kwh": 25.283}}
+{"hora": "11:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5175, "kwh": 14.183}}
+{"hora": "11:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3067, "kwh": 3.083}}
+{"hora": "11:25", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 6.046, "bateria": 0.0, "rede": 1.354}}}
+{"hora": "11:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:30", "topico": "estacao/pv/potencia", "payload": {"kw": 20.72}}
+{"hora": "11:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.7957, "kwh": 25.9}}
+{"hora": "11:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5269, "kwh": 14.8}}
+{"hora": "11:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3181, "kwh": 3.7}}
+{"hora": "11:30", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 5.92, "bateria": 0.0, "rede": 1.48}}}
+{"hora": "11:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:35", "topico": "estacao/pv/potencia", "payload": {"kw": 19.395}}
+{"hora": "11:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.8099, "kwh": 26.517}}
+{"hora": "11:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5364, "kwh": 15.417}}
+{"hora": "11:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3294, "kwh": 4.317}}
+{"hora": "11:35", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.595, "bateria": 0.0, "rede": 2.805}}}
+{"hora": "11:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:40", "topico": "estacao/pv/potencia", "payload": {"kw": 17.856}}
+{"hora": "11:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.8241, "kwh": 27.133}}
+{"hora": "11:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5458, "kwh": 16.033}}
+{"hora": "11:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3408, "kwh": 4.933}}
+{"hora": "11:40", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 3.056, "bateria": 0.0, "rede": 4.344}}}
+{"hora": "11:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:45", "topico": "estacao/pv/potencia", "payload": {"kw": 17.125}}
+{"hora": "11:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.8382, "kwh": 27.75}}
+{"hora": "11:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5553, "kwh": 16.65}}
+{"hora": "11:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3521, "kwh": 5.55}}
+{"hora": "11:45", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 2.325, "bateria": 0.0, "rede": 5.075}}}
+{"hora": "11:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:50", "topico": "estacao/pv/potencia", "payload": {"kw": 18.461}}
+{"hora": "11:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.8524, "kwh": 28.367}}
+{"hora": "11:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5648, "kwh": 17.267}}
+{"hora": "11:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3635, "kwh": 6.167}}
+{"hora": "11:50", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 3.661, "bateria": 0.0, "rede": 3.739}}}
+{"hora": "11:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "11:55", "topico": "estacao/pv/potencia", "payload": {"kw": 19.286}}
+{"hora": "11:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "11:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.8666, "kwh": 28.983}}
+{"hora": "11:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5742, "kwh": 17.883}}
+{"hora": "11:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3748, "kwh": 6.783}}
+{"hora": "11:55", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.486, "bateria": 0.0, "rede": 2.914}}}
+{"hora": "11:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:00", "topico": "estacao/pv/potencia", "payload": {"kw": 19.413}}
+{"hora": "12:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.8808, "kwh": 29.6}}
+{"hora": "12:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5837, "kwh": 18.5}}
+{"hora": "12:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3862, "kwh": 7.4}}
+{"hora": "12:00", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.613, "bateria": 0.0, "rede": 2.787}}}
+{"hora": "12:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:05", "topico": "estacao/pv/potencia", "payload": {"kw": 19.644}}
+{"hora": "12:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.895, "kwh": 30.217}}
+{"hora": "12:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5931, "kwh": 19.117}}
+{"hora": "12:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3975, "kwh": 8.017}}
+{"hora": "12:05", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 2.609, "fontes": {"solar": 2.609, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "12:05", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 7.4, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "12:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:10", "topico": "estacao/pv/potencia", "payload": {"kw": 20.308}}
+{"hora": "12:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 2.609, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6026, "kwh": 19.733}}
+{"hora": "12:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4089, "kwh": 8.633}}
+{"hora": "12:10", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "STOP", "kw": 0.0, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "12:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:15", "topico": "estacao/pv/potencia", "payload": {"kw": 20.067}}
+{"hora": "12:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.612, "kwh": 20.35}}
+{"hora": "12:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4202, "kwh": 9.25}}
+{"hora": "12:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:20", "topico": "estacao/pv/potencia", "payload": {"kw": 19.701}}
+{"hora": "12:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6215, "kwh": 20.967}}
+{"hora": "12:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4315, "kwh": 9.867}}
+{"hora": "12:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:25", "topico": "estacao/pv/potencia", "payload": {"kw": 19.451}}
+{"hora": "12:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6309, "kwh": 21.583}}
+{"hora": "12:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4429, "kwh": 10.483}}
+{"hora": "12:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:30", "topico": "estacao/pv/potencia", "payload": {"kw": 18.833}}
+{"hora": "12:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6404, "kwh": 22.2}}
+{"hora": "12:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4542, "kwh": 11.1}}
+{"hora": "12:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:35", "topico": "estacao/pv/potencia", "payload": {"kw": 18.862}}
+{"hora": "12:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6499, "kwh": 22.817}}
+{"hora": "12:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4656, "kwh": 11.717}}
+{"hora": "12:35", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 0.078, "fontes": {"solar": 0.078, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "12:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:40", "topico": "estacao/pv/potencia", "payload": {"kw": 19.929}}
+{"hora": "12:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.078, "soc": 0.65, "kwh": 22.823}}
+{"hora": "12:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4769, "kwh": 12.333}}
+{"hora": "12:40", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "STOP", "kw": 0.0, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "12:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:45", "topico": "estacao/pv/potencia", "payload": {"kw": 20.164}}
+{"hora": "12:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "12:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4883, "kwh": 12.95}}
+{"hora": "12:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:50", "topico": "estacao/pv/potencia", "payload": {"kw": 20.224}}
+{"hora": "12:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "12:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4996, "kwh": 13.567}}
+{"hora": "12:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "12:55", "topico": "estacao/pv/potencia", "payload": {"kw": 20.337}}
+{"hora": "12:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "12:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "12:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "12:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.511, "kwh": 14.183}}
+{"hora": "12:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:00", "topico": "estacao/pv/potencia", "payload": {"kw": 19.576}}
+{"hora": "13:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "13:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5223, "kwh": 14.8}}
+{"hora": "13:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:05", "topico": "estacao/pv/potencia", "payload": {"kw": 18.472}}
+{"hora": "13:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "13:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5337, "kwh": 15.417}}
+{"hora": "13:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:10", "topico": "estacao/pv/potencia", "payload": {"kw": 18.76}}
+{"hora": "13:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "13:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.545, "kwh": 16.033}}
+{"hora": "13:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:15", "topico": "estacao/pv/potencia", "payload": {"kw": 18.035}}
+{"hora": "13:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "13:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5564, "kwh": 16.65}}
+{"hora": "13:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:20", "topico": "estacao/pv/potencia", "payload": {"kw": 18.153}}
+{"hora": "13:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "13:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5677, "kwh": 17.267}}
+{"hora": "13:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:25", "topico": "estacao/pv/potencia", "payload": {"kw": 18.615}}
+{"hora": "13:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 22.823}}
+{"hora": "13:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5791, "kwh": 17.883}}
+{"hora": "13:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:30", "topico": "estacao/porta/2/evento", "payload": {"evento": "VEICULO_DESCONECTADO", "soc_final": 0.65}}
+{"hora": "13:30", "topico": "estacao/pv/potencia", "payload": {"kw": 19.082}}
+{"hora": "13:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5904, "kwh": 18.5}}
+{"hora": "13:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:35", "topico": "estacao/pv/potencia", "payload": {"kw": 17.462}}
+{"hora": "13:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6017, "kwh": 19.117}}
+{"hora": "13:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:40", "topico": "estacao/pv/potencia", "payload": {"kw": 17.628}}
+{"hora": "13:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6131, "kwh": 19.733}}
+{"hora": "13:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:45", "topico": "estacao/pv/potencia", "payload": {"kw": 16.249}}
+{"hora": "13:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6244, "kwh": 20.35}}
+{"hora": "13:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:50", "topico": "estacao/pv/potencia", "payload": {"kw": 17.671}}
+{"hora": "13:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6358, "kwh": 20.967}}
+{"hora": "13:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "13:55", "topico": "estacao/pv/potencia", "payload": {"kw": 16.19}}
+{"hora": "13:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "13:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "13:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6471, "kwh": 21.583}}
+{"hora": "13:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:00", "topico": "estacao/porta/2/evento", "payload": {"evento": "VEICULO_CONECTADO", "veiculo": "Hatch compacto 40 kWh", "cap_kwh": 40, "soc": 0.35, "soc_alvo": 0.9, "saida_h": 18.5}}
+{"hora": "14:00", "topico": "estacao/pv/potencia", "payload": {"kw": 15.6}}
+{"hora": "14:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.35, "kwh": 0.0}}
+{"hora": "14:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6585, "kwh": 22.2}}
+{"hora": "14:00", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "START", "kw": 7.4, "fontes": {"solar": 7.4, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "14:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:05", "topico": "estacao/pv/potencia", "payload": {"kw": 16.163}}
+{"hora": "14:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3642, "kwh": 0.617}}
+{"hora": "14:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6698, "kwh": 22.817}}
+{"hora": "14:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:10", "topico": "estacao/pv/potencia", "payload": {"kw": 15.446}}
+{"hora": "14:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3784, "kwh": 1.233}}
+{"hora": "14:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6812, "kwh": 23.433}}
+{"hora": "14:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:15", "topico": "estacao/pv/potencia", "payload": {"kw": 15.094}}
+{"hora": "14:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.3925, "kwh": 1.85}}
+{"hora": "14:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6925, "kwh": 24.05}}
+{"hora": "14:15", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 4.891, "fontes": {"solar": 4.891, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "14:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:20", "topico": "estacao/pv/potencia", "payload": {"kw": 15.016}}
+{"hora": "14:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4067, "kwh": 2.467}}
+{"hora": "14:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 4.878, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:20", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "STOP", "kw": 0.0, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "14:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:25", "topico": "estacao/pv/potencia", "payload": {"kw": 14.925}}
+{"hora": "14:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4209, "kwh": 3.083}}
+{"hora": "14:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:30", "topico": "estacao/pv/potencia", "payload": {"kw": 14.96}}
+{"hora": "14:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4351, "kwh": 3.7}}
+{"hora": "14:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:35", "topico": "estacao/pv/potencia", "payload": {"kw": 15.24}}
+{"hora": "14:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4493, "kwh": 4.317}}
+{"hora": "14:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:40", "topico": "estacao/pv/potencia", "payload": {"kw": 14.969}}
+{"hora": "14:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4635, "kwh": 4.933}}
+{"hora": "14:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:45", "topico": "estacao/pv/potencia", "payload": {"kw": 13.344}}
+{"hora": "14:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4776, "kwh": 5.55}}
+{"hora": "14:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:50", "topico": "estacao/pv/potencia", "payload": {"kw": 13.428}}
+{"hora": "14:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.4918, "kwh": 6.167}}
+{"hora": "14:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "14:55", "topico": "estacao/pv/potencia", "payload": {"kw": 12.903}}
+{"hora": "14:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "14:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "14:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.506, "kwh": 6.783}}
+{"hora": "14:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 24.457}}
+{"hora": "14:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:00", "topico": "estacao/porta/3/evento", "payload": {"evento": "VEICULO_DESCONECTADO", "soc_final": 0.7}}
+{"hora": "15:00", "topico": "estacao/pv/potencia", "payload": {"kw": 12.106}}
+{"hora": "15:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5202, "kwh": 7.4}}
+{"hora": "15:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:05", "topico": "estacao/pv/potencia", "payload": {"kw": 11.491}}
+{"hora": "15:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5344, "kwh": 8.017}}
+{"hora": "15:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:10", "topico": "estacao/pv/potencia", "payload": {"kw": 10.986}}
+{"hora": "15:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5486, "kwh": 8.633}}
+{"hora": "15:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:15", "topico": "estacao/pv/potencia", "payload": {"kw": 10.879}}
+{"hora": "15:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5627, "kwh": 9.25}}
+{"hora": "15:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:20", "topico": "estacao/pv/potencia", "payload": {"kw": 9.276}}
+{"hora": "15:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5769, "kwh": 9.867}}
+{"hora": "15:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:25", "topico": "estacao/pv/potencia", "payload": {"kw": 9.561}}
+{"hora": "15:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.5911, "kwh": 10.483}}
+{"hora": "15:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:30", "topico": "estacao/pv/potencia", "payload": {"kw": 8.682}}
+{"hora": "15:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6053, "kwh": 11.1}}
+{"hora": "15:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:35", "topico": "estacao/pv/potencia", "payload": {"kw": 8.115}}
+{"hora": "15:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6195, "kwh": 11.717}}
+{"hora": "15:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:40", "topico": "estacao/pv/potencia", "payload": {"kw": 8.631}}
+{"hora": "15:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6337, "kwh": 12.333}}
+{"hora": "15:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:45", "topico": "estacao/pv/potencia", "payload": {"kw": 8.14}}
+{"hora": "15:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6478, "kwh": 12.95}}
+{"hora": "15:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:50", "topico": "estacao/pv/potencia", "payload": {"kw": 7.194}}
+{"hora": "15:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.662, "kwh": 13.567}}
+{"hora": "15:50", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 7.194, "bateria": 0.0, "rede": 0.206}}}
+{"hora": "15:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "15:55", "topico": "estacao/pv/potencia", "payload": {"kw": 6.507}}
+{"hora": "15:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "15:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 30.434}}
+{"hora": "15:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6762, "kwh": 14.183}}
+{"hora": "15:55", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 6.507, "bateria": 0.0, "rede": 0.893}}}
+{"hora": "15:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:00", "topico": "estacao/porta/1/evento", "payload": {"evento": "VEICULO_DESCONECTADO", "soc_final": 0.9}}
+{"hora": "16:00", "topico": "estacao/pv/potencia", "payload": {"kw": 6.351}}
+{"hora": "16:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.6904, "kwh": 14.8}}
+{"hora": "16:00", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 6.351, "bateria": 0.0, "rede": 1.049}}}
+{"hora": "16:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:05", "topico": "estacao/pv/potencia", "payload": {"kw": 6.336}}
+{"hora": "16:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7046, "kwh": 15.417}}
+{"hora": "16:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:10", "topico": "estacao/pv/potencia", "payload": {"kw": 5.702}}
+{"hora": "16:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7188, "kwh": 16.033}}
+{"hora": "16:10", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 5.702, "bateria": 0.0, "rede": 1.698}}}
+{"hora": "16:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:15", "topico": "estacao/pv/potencia", "payload": {"kw": 5.442}}
+{"hora": "16:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7329, "kwh": 16.65}}
+{"hora": "16:15", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 5.442, "bateria": 0.0, "rede": 1.958}}}
+{"hora": "16:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:20", "topico": "estacao/pv/potencia", "payload": {"kw": 5.658}}
+{"hora": "16:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7471, "kwh": 17.267}}
+{"hora": "16:20", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 5.658, "bateria": 0.0, "rede": 1.742}}}
+{"hora": "16:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:25", "topico": "estacao/pv/potencia", "payload": {"kw": 4.92}}
+{"hora": "16:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7613, "kwh": 17.883}}
+{"hora": "16:25", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.92, "bateria": 0.0, "rede": 2.48}}}
+{"hora": "16:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:30", "topico": "estacao/pv/potencia", "payload": {"kw": 4.865}}
+{"hora": "16:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7755, "kwh": 18.5}}
+{"hora": "16:30", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.865, "bateria": 0.0, "rede": 2.535}}}
+{"hora": "16:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:35", "topico": "estacao/pv/potencia", "payload": {"kw": 4.592}}
+{"hora": "16:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.7897, "kwh": 19.117}}
+{"hora": "16:35", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.592, "bateria": 0.0, "rede": 2.808}}}
+{"hora": "16:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:40", "topico": "estacao/pv/potencia", "payload": {"kw": 4.102}}
+{"hora": "16:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.8039, "kwh": 19.733}}
+{"hora": "16:40", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 4.102, "bateria": 0.0, "rede": 3.298}}}
+{"hora": "16:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:45", "topico": "estacao/pv/potencia", "payload": {"kw": 3.708}}
+{"hora": "16:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.818, "kwh": 20.35}}
+{"hora": "16:45", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 3.708, "bateria": 0.0, "rede": 3.692}}}
+{"hora": "16:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:50", "topico": "estacao/pv/potencia", "payload": {"kw": 3.212}}
+{"hora": "16:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.8322, "kwh": 20.967}}
+{"hora": "16:50", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 3.212, "bateria": 0.0, "rede": 4.188}}}
+{"hora": "16:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "16:55", "topico": "estacao/pv/potencia", "payload": {"kw": 2.955}}
+{"hora": "16:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "16:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.8464, "kwh": 21.583}}
+{"hora": "16:55", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 2.955, "bateria": 0.0, "rede": 4.445}}}
+{"hora": "16:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:00", "topico": "estacao/porta/1/evento", "payload": {"evento": "VEICULO_CONECTADO", "veiculo": "Sedan eletrico 50 kWh", "cap_kwh": 50, "soc": 0.2, "soc_alvo": 0.7, "saida_h": 22.0}}
+{"hora": "17:00", "topico": "estacao/pv/potencia", "payload": {"kw": 2.577}}
+{"hora": "17:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.2, "kwh": 0.0}}
+{"hora": "17:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.8606, "kwh": 22.2}}
+{"hora": "17:00", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "START", "kw": 7.4, "fontes": {"solar": 2.577, "bateria": 0.0, "rede": 4.823}}}
+{"hora": "17:00", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 7.4}}}
+{"hora": "17:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:05", "topico": "estacao/pv/potencia", "payload": {"kw": 2.592}}
+{"hora": "17:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2113, "kwh": 0.617}}
+{"hora": "17:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.8748, "kwh": 22.817}}
+{"hora": "17:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:10", "topico": "estacao/pv/potencia", "payload": {"kw": 2.224}}
+{"hora": "17:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2227, "kwh": 1.233}}
+{"hora": "17:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 7.4, "soc": 0.889, "kwh": 23.433}}
+{"hora": "17:10", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 2.224, "bateria": 0.0, "rede": 5.176}}}
+{"hora": "17:10", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "SET_POWER", "kw": 5.739, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 5.739}}}
+{"hora": "17:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:15", "topico": "estacao/pv/potencia", "payload": {"kw": 2.175}}
+{"hora": "17:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.234, "kwh": 1.85}}
+{"hora": "17:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 5.739, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:15", "topico": "estacao/porta/2/cmd", "payload": {"cmd": "STOP", "kw": 0.0, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "17:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:20", "topico": "estacao/pv/potencia", "payload": {"kw": 1.836}}
+{"hora": "17:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2454, "kwh": 2.467}}
+{"hora": "17:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:20", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 1.836, "bateria": 0.0, "rede": 5.564}}}
+{"hora": "17:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:25", "topico": "estacao/pv/potencia", "payload": {"kw": 1.612}}
+{"hora": "17:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2567, "kwh": 3.083}}
+{"hora": "17:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:25", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 1.612, "bateria": 0.0, "rede": 5.788}}}
+{"hora": "17:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:30", "topico": "estacao/pv/potencia", "payload": {"kw": 1.356}}
+{"hora": "17:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2681, "kwh": 3.7}}
+{"hora": "17:30", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:30", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 1.356, "bateria": 0.0, "rede": 6.044}}}
+{"hora": "17:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:35", "topico": "estacao/pv/potencia", "payload": {"kw": 1.036}}
+{"hora": "17:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2794, "kwh": 4.317}}
+{"hora": "17:35", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:35", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 1.036, "bateria": 0.0, "rede": 6.364}}}
+{"hora": "17:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.826}}
+{"hora": "17:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.2908, "kwh": 4.933}}
+{"hora": "17:40", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:40", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 0.826, "bateria": 0.0, "rede": 6.574}}}
+{"hora": "17:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.538}}
+{"hora": "17:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3021, "kwh": 5.55}}
+{"hora": "17:45", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:45", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 0.538, "bateria": 0.0, "rede": 6.862}}}
+{"hora": "17:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.342}}
+{"hora": "17:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3135, "kwh": 6.167}}
+{"hora": "17:50", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:50", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 0.342, "bateria": 0.0, "rede": 7.058}}}
+{"hora": "17:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "17:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.137}}
+{"hora": "17:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "17:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3248, "kwh": 6.783}}
+{"hora": "17:55", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "17:55", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 0.137, "bateria": 0.0, "rede": 7.263}}}
+{"hora": "17:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3362, "kwh": 7.4}}
+{"hora": "18:00", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "18:00", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 7.4, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 7.4}}}
+{"hora": "18:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3475, "kwh": 8.017}}
+{"hora": "18:05", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "18:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3589, "kwh": 8.633}}
+{"hora": "18:10", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "18:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3702, "kwh": 9.25}}
+{"hora": "18:15", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "18:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3815, "kwh": 9.867}}
+{"hora": "18:20", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "18:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.3929, "kwh": 10.483}}
+{"hora": "18:25", "topico": "estacao/porta/2/medicao", "payload": {"kw": 0.0, "soc": 0.9, "kwh": 23.912}}
+{"hora": "18:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:30", "topico": "estacao/porta/2/evento", "payload": {"evento": "VEICULO_DESCONECTADO", "soc_final": 0.9}}
+{"hora": "18:30", "topico": "estacao/porta/3/evento", "payload": {"evento": "VEICULO_CONECTADO", "veiculo": "Utilitario 35 kWh", "cap_kwh": 35, "soc": 0.15, "soc_alvo": 0.65, "saida_h": 23.0}}
+{"hora": "18:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4042, "kwh": 11.1}}
+{"hora": "18:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.15, "kwh": 0.0}}
+{"hora": "18:30", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "START", "kw": 7.4, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 7.4}}}
+{"hora": "18:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4156, "kwh": 11.717}}
+{"hora": "18:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.1662, "kwh": 0.617}}
+{"hora": "18:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4269, "kwh": 12.333}}
+{"hora": "18:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.1824, "kwh": 1.233}}
+{"hora": "18:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4383, "kwh": 12.95}}
+{"hora": "18:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.1986, "kwh": 1.85}}
+{"hora": "18:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4496, "kwh": 13.567}}
+{"hora": "18:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2148, "kwh": 2.467}}
+{"hora": "18:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "18:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "18:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "18:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.461, "kwh": 14.183}}
+{"hora": "18:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.231, "kwh": 3.083}}
+{"hora": "18:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4723, "kwh": 14.8}}
+{"hora": "19:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2473, "kwh": 3.7}}
+{"hora": "19:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.4837, "kwh": 15.417}}
+{"hora": "19:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2635, "kwh": 4.317}}
+{"hora": "19:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.495, "kwh": 16.033}}
+{"hora": "19:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2797, "kwh": 4.933}}
+{"hora": "19:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5064, "kwh": 16.65}}
+{"hora": "19:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.2959, "kwh": 5.55}}
+{"hora": "19:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5177, "kwh": 17.267}}
+{"hora": "19:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3121, "kwh": 6.167}}
+{"hora": "19:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5291, "kwh": 17.883}}
+{"hora": "19:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3283, "kwh": 6.783}}
+{"hora": "19:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5404, "kwh": 18.5}}
+{"hora": "19:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3445, "kwh": 7.4}}
+{"hora": "19:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5517, "kwh": 19.117}}
+{"hora": "19:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3607, "kwh": 8.017}}
+{"hora": "19:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5631, "kwh": 19.733}}
+{"hora": "19:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3769, "kwh": 8.633}}
+{"hora": "19:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5744, "kwh": 20.35}}
+{"hora": "19:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.3931, "kwh": 9.25}}
+{"hora": "19:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5858, "kwh": 20.967}}
+{"hora": "19:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4094, "kwh": 9.867}}
+{"hora": "19:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "19:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "19:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "19:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.5971, "kwh": 21.583}}
+{"hora": "19:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4256, "kwh": 10.483}}
+{"hora": "19:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6085, "kwh": 22.2}}
+{"hora": "20:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4418, "kwh": 11.1}}
+{"hora": "20:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6198, "kwh": 22.817}}
+{"hora": "20:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.458, "kwh": 11.717}}
+{"hora": "20:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6312, "kwh": 23.433}}
+{"hora": "20:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4742, "kwh": 12.333}}
+{"hora": "20:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6425, "kwh": 24.05}}
+{"hora": "20:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.4904, "kwh": 12.95}}
+{"hora": "20:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6539, "kwh": 24.667}}
+{"hora": "20:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5066, "kwh": 13.567}}
+{"hora": "20:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6652, "kwh": 25.283}}
+{"hora": "20:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5228, "kwh": 14.183}}
+{"hora": "20:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6766, "kwh": 25.9}}
+{"hora": "20:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.539, "kwh": 14.8}}
+{"hora": "20:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6879, "kwh": 26.517}}
+{"hora": "20:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5552, "kwh": 15.417}}
+{"hora": "20:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 7.4, "soc": 0.6993, "kwh": 27.133}}
+{"hora": "20:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5714, "kwh": 16.033}}
+{"hora": "20:40", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "SET_POWER", "kw": 0.457, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.457}}}
+{"hora": "20:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.457, "soc": 0.7, "kwh": 27.171}}
+{"hora": "20:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.5877, "kwh": 16.65}}
+{"hora": "20:45", "topico": "estacao/porta/1/cmd", "payload": {"cmd": "STOP", "kw": 0.0, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "20:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "20:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6039, "kwh": 17.267}}
+{"hora": "20:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "20:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "20:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "20:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "20:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6201, "kwh": 17.883}}
+{"hora": "20:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:00", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 7.4, "soc": 0.6363, "kwh": 18.5}}
+{"hora": "21:00", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "SET_POWER", "kw": 6.254, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 6.254}}}
+{"hora": "21:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:05", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 6.254, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:05", "topico": "estacao/porta/3/cmd", "payload": {"cmd": "STOP", "kw": 0.0, "fontes": {"solar": 0.0, "bateria": 0.0, "rede": 0.0}}}
+{"hora": "21:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:10", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:15", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:20", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:25", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:30", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:35", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:40", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:45", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:50", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "21:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "21:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "21:55", "topico": "estacao/porta/1/medicao", "payload": {"kw": 0.0, "soc": 0.7, "kwh": 27.171}}
+{"hora": "21:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "21:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:00", "topico": "estacao/porta/1/evento", "payload": {"evento": "VEICULO_DESCONECTADO", "soc_final": 0.7}}
+{"hora": "22:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:00", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:05", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:10", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:15", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:20", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:25", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:30", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:35", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:40", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:45", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:50", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "22:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "22:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "22:55", "topico": "estacao/porta/3/medicao", "payload": {"kw": 0.0, "soc": 0.65, "kwh": 19.021}}
+{"hora": "22:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:00", "topico": "estacao/porta/3/evento", "payload": {"evento": "VEICULO_DESCONECTADO", "soc_final": 0.65}}
+{"hora": "23:00", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:00", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:00", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:05", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:05", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:05", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:10", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:10", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:10", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:15", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:15", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:15", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:20", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:20", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:20", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:25", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:25", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:25", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:30", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:30", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:30", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:35", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:35", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:35", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:40", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:40", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:40", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:45", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:45", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:45", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:50", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:50", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:50", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}
+{"hora": "23:55", "topico": "estacao/pv/potencia", "payload": {"kw": 0.0}}
+{"hora": "23:55", "topico": "estacao/bateria/estado", "payload": {"soc": 0.0, "max_descarga_kw": 0.0, "max_carga_kw": 0.0}}
+{"hora": "23:55", "topico": "estacao/bateria/cmd", "payload": {"carga_kw": 0.0, "descarga_kw": 0.0}}

@@ -20,7 +20,7 @@
 | `João Camperlingo` | `568957` |
 | `Davi Monteiro` | `573290` |
 
-**Disciplina:** Inteligência Artificial · **Turma/Professor:** `<<PREENCHER>>`
+**Disciplina:** Prompt and Artificial Intelligence · **Turma/Professor:** `1CCPG - Prof° Jorge`
 
 ---
 
@@ -170,11 +170,7 @@ O contexto-base que condiciona o modelo está em [`prompts/system_prompt.txt`](p
 
 ### 5.5 Iteração do prompt e dos parâmetros
 
-Registre aqui os ajustes feitos após testar com o Gemini (`python src/chat.py --backend gemini --teste`):
-
-| Iteração | Problema observado nos testes | Mudança no prompt/parâmetro | Resultado |
-|---|---|---|---|
-| `<<1>>` | `<<PREENCHER>>` | `<<PREENCHER>>` | `<<PREENCHER>>` |
+Nesta entrega os testes foram executados no modo offline (respondedor por templates, sem LLM). A iteração do system prompt e dos parâmetros com o Gemini (python src/chat.py --backend gemini --teste) fica como próximo passo.
 
 ---
 

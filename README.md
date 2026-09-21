@@ -4,8 +4,8 @@
 
 > Protótipo **simulado** que integra **energia solar + bateria + rede**, **carregadores de veículos elétricos**, **mensageria MQTT**, um **agente de IA** que orquestra a potência (com previsão solar por aprendizado de máquina) e um **chatbot com LLM** que comunica ao operador comercial o que a estação está fazendo.
 
-- 🎥 **Vídeo técnico (YouTube, não listado):** `<<COLE AQUI O LINK DO VÍDEO>>`
-- 💻 **Repositório:** `<<COLE AQUI O LINK DO GITHUB>>`
+- 🎥 **Vídeo técnico (YouTube, não listado):** `https://youtu.be/3wi_uDQaqFc`
+- 💻 **Repositório:** `https://github.com/reicheguilherme-spec/chargegrid-intelligence-ai.git`
 
 ---
 
@@ -13,10 +13,12 @@
 
 | Nome completo | RM |
 |---|---|
-| `<<NOME 1>>` | `<<RM 1>>` |
-| `<<NOME 2>>` | `<<RM 2>>` |
-| `<<NOME 3>>` | `<<RM 3>>` |
-| `<<NOME 4>>` | `<<RM 4>>` |
+| `Enzo Guislandi` | `RM: 569885` |
+| `Guilherme Reiche` | `569918` |
+| `Nicolas Nishi` | `572242` |
+| `Lucas de Abreu` | `572321` |
+| `João Camperlingo` | `568957` |
+| `Davi Monteiro` | `573290` |
 
 **Disciplina:** Inteligência Artificial · **Turma/Professor:** `<<PREENCHER>>`
 
